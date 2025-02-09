@@ -1,6 +1,5 @@
 package br.com.builder.builders;
 
-import br.com.builder.cars.Car;
 import br.com.builder.cars.Truck;
 import br.com.builder.components.CarType;
 import br.com.builder.components.Engine;
